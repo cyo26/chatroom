@@ -1,6 +1,6 @@
 # chatroom
 
-A simple thread based chatroom.
+A simple thread based chatroom (not complete).
 
 ## Build
 
@@ -24,7 +24,8 @@ john: hi
 ```
 
 ```
-./client 8081
+$ ./client 8081
 Your name: john
 hi
 ```
+
